@@ -1,0 +1,10 @@
+.footer{
+    background-color: rgb(50, 55, 60);
+    font-family: "Poppins";
+    color: aliceblue;
+    padding-top: 0.5%;
+    /* padding-left: 4%; */
+    /* padding-right: 4%; */
+    margin-left: 4%;
+    border-top: 2%;
+}

@@ -1,0 +1,66 @@
+.home {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  height: 100vh;
+  background-image: url("https://tse3.mm.bing.net/th?id=OIP.ypoCaG61CtV-PeExSIpzHwHaEo&pid=Api&P=0");
+  background-size: cover;
+  background-position: center;
+}
+
+.home__text {
+  width: 40%;
+  color: #fff;
+  padding: 0 2rem;
+}
+
+.home__text h1 {
+  font-size: 4rem;
+  margin-bottom: 2rem;
+}
+
+.home__text h2 {
+  font-size: 2.5rem;
+  font-weight: 400;
+  margin-bottom: 2rem;
+}
+
+.home__name {
+  color: #c41ead;
+}
+
+.home__btn {
+  font-size: 1.5rem;
+  padding: 1.2rem 2rem;
+  border: 2px solid #c41ead;
+  background-color: transparent;
+  color: #fff;
+  margin-top: 2rem;
+  transition: all 0.3s ease-in-out;
+}
+
+.home__btn:hover {
+  background-color: #c41ead;
+  cursor: pointer;
+}
+
+.home__img {
+  width: 50%;
+  height: 100%;
+  background-image: url("https://tse3.mm.bing.net/th?id=OIP.ypoCaG61CtV-PeExSIpzHwHaEo&pid=Api&P=0");
+  background-repeat: no-repeat;
+  background-size: contain;
+  background-position: center;
+}
+#school
+{
+  width: 20%;
+  height: 35%;
+  margin-right:20px;
+}
+#clg
+{
+  width: 20%;
+  height: 10%;
+  margin-right:20px;
+}

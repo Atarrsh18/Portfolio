@@ -1,0 +1,20 @@
+[  {    "id": "project1",    "title": "Project 1",    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam commodo efficitur ligula, eget rutrum tellus elementum sit amet. Sed ac felis vitae enim venenatis lobortis. Integer efficitur commodo sodales. ",    "img": "https://via.placeholder.com/350x200",    "techStack": ["React", "Node.js", "MongoDB"],
+    "link": "https://github.com/example/project1"
+  },
+  {
+    "id": "project2",
+    "title": "Project 2",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam commodo efficitur ligula, eget rutrum tellus elementum sit amet. Sed ac felis vitae enim venenatis lobortis. Integer efficitur commodo sodales. ",
+    "img": "https://via.placeholder.com/350x200",
+    "techStack": ["Angular", "Express", "MySQL"],
+    "link": "https://github.com/example/project2"
+  },
+  {
+    "id": "project3",
+    "title": "Project 3",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam commodo efficitur ligula, eget rutrum tellus elementum sit amet. Sed ac felis vitae enim venenatis lobortis. Integer efficitur commodo sodales. ",
+    "img": "https://via.placeholder.com/350x200",
+    "techStack": ["Vue.js", "Python", "PostgreSQL"],
+    "link": "https://github.com/example/project3"
+  }
+]

@@ -1,0 +1,16 @@
+#img
+{
+    width: 55%;
+    height: 55%;
+}
+#icon
+{
+    font-size: medium;
+    width: 30px;
+    height: 30px;
+}
+body
+{
+    background-color: black;
+    color: rgb(225, 249, 224);
+}
